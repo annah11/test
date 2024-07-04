@@ -15,11 +15,14 @@ export default function Positions() {
             <div class='mt-4 flex items-center justify-end space-x-4'>
               <a
                 href='#'
-                class='font-medium text-indigo-600 hover:text-indigo-500'
+                class='font-medium text-indigo-600 hover:scale-105 border bg-gray-200 border-gray-200 rounded-xl px-3 py-1'
               >
                 Edit
               </a>
-              <a href='#' class='font-medium text-red-600 '>
+              <a
+                href='#'
+                class='font-semibold text-gray-100 border-red-600 rounded-xl px-3 py-1 bg-red-600 border'
+              >
                 Delete
               </a>
             </div>
@@ -38,11 +41,14 @@ export default function Positions() {
             <div class='mt-4 flex items-center justify-end space-x-4'>
               <a
                 href='#'
-                class='font-medium text-indigo-600 hover:text-indigo-500'
+                class='font-medium text-indigo-600 hover:scale-105 border bg-gray-200 border-gray-200 rounded-xl px-3 py-1'
               >
                 Edit
               </a>
-              <a href='#' class='font-medium text-red-600 '>
+              <a
+                href='#'
+                class='font-semibold text-gray-100 border-red-600 rounded-xl px-3 py-1 bg-red-600 border'
+              >
                 Delete
               </a>
             </div>
@@ -61,11 +67,14 @@ export default function Positions() {
             <div class='mt-4 flex items-center justify-end space-x-4'>
               <a
                 href='#'
-                class='font-medium text-indigo-600 hover:text-indigo-500'
+                class='font-medium text-indigo-600 hover:scale-105 border bg-gray-200 border-gray-200 rounded-xl px-3 py-1'
               >
                 Edit
               </a>
-              <a href='#' class='font-medium text-red-600 '>
+              <a
+                href='#'
+                class='font-semibold text-gray-100 border-red-600 rounded-xl px-3 py-1 bg-red-600 border'
+              >
                 Delete
               </a>
             </div>
