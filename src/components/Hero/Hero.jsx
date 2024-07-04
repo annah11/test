@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export default function Hero() {
   return (
     <div className='relative bg-gray-50'>
@@ -9,17 +11,17 @@ export default function Hero() {
         />
       </div>
 
-      <header className='relative py-4 md:py-6'>
+      <header className='relative py-4 md:py-4'>
         <div className='container px-4 mx-auto sm:px-6 lg:px-8'>
           <div className='flex items-center justify-between'>
             <div className='flex-shrink-0'>
-              <a
-                href='#'
+              <Link
+                href='/'
                 title=''
                 className='flex rounded outline-none focus:ring-1 focus:ring-gray-900 focus:ring-offset-2'
               >
                 <img className='w-auto h-8' src='' alt='logo' />
-              </a>
+              </Link>
             </div>
 
             <div className='flex lg:hidden'>
@@ -42,47 +44,47 @@ export default function Hero() {
             </div>
 
             <div className='hidden lg:flex lg:ml-10 xl:ml-16 lg:items-center lg:justify-center lg:space-x-8 xl:space-x-16'>
-              <a
-                href='#'
+              <Link
+                href='/positions'
                 title=''
                 className='text-base font-medium text-gray-900 transition-all duration-200 rounded focus:outline-none font-pj hover:text-opacity-50 focus:ring-1 focus:ring-gray-900 focus:ring-offset-2'
               >
                 {' '}
                 Positions{' '}
-              </a>
+              </Link>
 
-              <a
-                href='#'
+              <Link
+                href='/employees'
                 title=''
                 className='text-base font-medium text-gray-900 transition-all duration-200 rounded focus:outline-none font-pj hover:text-opacity-50 focus:ring-1 focus:ring-gray-900 focus:ring-offset-2'
               >
                 {' '}
                 Employees{' '}
-              </a>
+              </Link>
 
-              <a
-                href='#'
+              <Link
+                href='/about'
                 title=''
                 className='text-base font-medium text-gray-900 transition-all duration-200 rounded focus:outline-none font-pj hover:text-opacity-50 focus:ring-1 focus:ring-gray-900 focus:ring-offset-2'
               >
                 {' '}
                 About Perago{' '}
-              </a>
+              </Link>
 
-              <a
-                href='#'
+              <Link
+                href='/contact'
                 title=''
                 className='text-base font-medium text-gray-900 transition-all duration-200 rounded focus:outline-none font-pj hover:text-opacity-50 focus:ring-1 focus:ring-gray-900 focus:ring-offset-2'
               >
                 {' '}
                 Contact{' '}
-              </a>
+              </Link>
             </div>
           </div>
         </div>
       </header>
 
-      <section className='relative py-12 sm:py-16 lg:py-20 lg:pb-36'>
+      <section className='relative py-8 sm:py-12 lg:py-16 lg:pb-36'>
         <div className='px-4 mx-auto max-w-7xl sm:px-6 lg:px-8'>
           <div className='grid max-w-lg grid-cols-1 mx-auto lg:max-w-full lg:items-center lg:grid-cols-2 gap-y-12 lg:gap-x-8'>
             <div>
