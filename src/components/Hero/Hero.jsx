@@ -48,7 +48,7 @@ export default function Hero() {
                 className='text-base font-medium text-gray-900 transition-all duration-200 rounded focus:outline-none font-pj hover:text-opacity-50 focus:ring-1 focus:ring-gray-900 focus:ring-offset-2'
               >
                 {' '}
-                Solutions{' '}
+                Positions{' '}
               </a>
 
               <a
@@ -57,16 +57,7 @@ export default function Hero() {
                 className='text-base font-medium text-gray-900 transition-all duration-200 rounded focus:outline-none font-pj hover:text-opacity-50 focus:ring-1 focus:ring-gray-900 focus:ring-offset-2'
               >
                 {' '}
-                Industries{' '}
-              </a>
-
-              <a
-                href='#'
-                title=''
-                className='text-base font-medium text-gray-900 transition-all duration-200 rounded focus:outline-none font-pj hover:text-opacity-50 focus:ring-1 focus:ring-gray-900 focus:ring-offset-2'
-              >
-                {' '}
-                Fees{' '}
+                Employees{' '}
               </a>
 
               <a
@@ -77,25 +68,14 @@ export default function Hero() {
                 {' '}
                 About Perago{' '}
               </a>
-            </div>
 
-            <div className='hidden lg:ml-auto lg:flex lg:items-center lg:space-x-8 xl:space-x-10'>
               <a
                 href='#'
                 title=''
                 className='text-base font-medium text-gray-900 transition-all duration-200 rounded focus:outline-none font-pj hover:text-opacity-50 focus:ring-1 focus:ring-gray-900 focus:ring-offset-2'
               >
                 {' '}
-                Sign in{' '}
-              </a>
-
-              <a
-                href='#'
-                title=''
-                className='px-5 py-2 text-base font-bold leading-7 text-white transition-all duration-200 bg-gray-900 border border-transparent rounded-xl hover:bg-gray-600 font-pj focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900'
-                role='button'
-              >
-                Create free account
+                Contact{' '}
               </a>
             </div>
           </div>
@@ -108,14 +88,14 @@ export default function Hero() {
             <div>
               <div className='text-center lg:text-left'>
                 <h1 className='text-4xl font-bold leading-tight text-gray-900 sm:text-5xl sm:leading-tight lg:leading-tight lg:text-6xl font-pj'>
-                  A special credit card made for Developers.
+                  Perago Information System.
                 </h1>
                 <p className='mt-2 text-lg text-gray-600 sm:mt-8 font-inter'>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                   Vehicula massa in enim luctus. Rutrum arcu.
                 </p>
 
-                <form action='#' method='POST' className='mt-8 sm:mt-10'>
+                {/* <form action='#' method='POST' className='mt-8 sm:mt-10'>
                   <div className='relative p-2 sm:border sm:border-gray-400 group sm:rounded-xl sm:focus-within:ring-1 sm:focus-within:ring-gray-900 sm:focus-within:border-gray-900'>
                     <input
                       type='email'
@@ -134,18 +114,18 @@ export default function Hero() {
                       </button>
                     </div>
                   </div>
-                </form>
+                </form> */}
               </div>
 
               <div className='flex items-center justify-center mt-10 space-x-6 lg:justify-start sm:space-x-8'>
                 <div className='flex items-center'>
                   <p className='text-3xl font-medium text-gray-900 sm:text-4xl font-pj'>
-                    2943
+                    23
                   </p>
                   <p className='ml-3 text-sm text-gray-900 font-pj'>
-                    Cards
+                    Total
                     <br />
-                    Delivered
+                    Positions
                   </p>
                 </div>
 
@@ -194,12 +174,12 @@ export default function Hero() {
 
                 <div className='flex items-center'>
                   <p className='text-3xl font-medium text-gray-900 sm:text-4xl font-pj'>
-                    $1M+
+                    100+
                   </p>
                   <p className='ml-3 text-sm text-gray-900 font-pj'>
-                    Transaction
+                    Total
                     <br />
-                    Completed
+                    Employees
                   </p>
                 </div>
               </div>
