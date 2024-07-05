@@ -3,6 +3,7 @@ import Link from 'next/link';
 export default function Hero() {
   return (
     <div className='relative bg-gray-50'>
+      
       {/* <div className='absolute bottom-0 right-0 overflow-hidden lg:inset-y-0'>
         <img
           className='w-auto h-full'
