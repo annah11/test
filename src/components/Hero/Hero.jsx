@@ -192,7 +192,7 @@ export default function Hero() {
             <div>
               <img
                 className='w-full'
-                src='https://d33wubrfki0l68.cloudfront.net/a78a55b3add0dc26d3587d02ecc23bebc28bf5f8/67091/images/hero/5.2/illustration.png'
+                src='https://cdn.create.vista.com/api/media/small/2769310/stock-photo-digital-program-code-and-american-map'
                 alt=''
               />
             </div>

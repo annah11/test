@@ -14,9 +14,26 @@ export default function AddEmployee() {
               className='w-full font-semibold text-lg rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-200 focus:border-transparent'
             >
               <option value='ceo'>ceo</option>
-              <option value='ceo'>ceo</option>
-              <option value='ceo'>ceo</option>
-              <option value='ceo'>ceo</option>
+              <option value='ceo'>CTO</option>
+              <option value='ceo'>Project Manager</option>
+              <option value='ceo'>Product Owner</option>
+              <option value='ceo'> Tech Lead</option>
+              <option value='ceo'>DevOps Engineer</option>
+              <option value='ceo'>Backend Developer</option>
+              <option value='ceo'>Frontend Developer</option>
+              <option value='ceo'> QA Engineer</option>
+              <option value='ceo'>Scrum Master</option>
+              <option value='ceo'>CFO</option>
+              <option value='ceo'>Chef Accountant</option>
+              <option value='ceo'>Financial Analyst</option>
+              <option value='ceo'>Account and Payable</option>
+              <option value='ceo'>Internal Audit</option>
+              <option value='COO'>External Audit</option>
+              <option value='ceo'>Product Manager</option>
+
+
+              <option value='ceo'>HR Manager</option>
+
             </select>
           </div>
           <div class='mb-4'>
@@ -30,9 +47,9 @@ export default function AddEmployee() {
               className='w-full font-semibold text-lg rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-200 focus:border-transparent'
             >
               <option value='ceo'>ceo</option>
-              <option value='ceo'>ceo</option>
-              <option value='ceo'>ceo</option>
-              <option value='ceo'>ceo</option>
+              <option value='ceo'>cto</option>
+              <option value='ceo'>cfo</option>
+              <option value='ceo'>coo</option>
             </select>
           </div>
           <div class='mb-4'>
