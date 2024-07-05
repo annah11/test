@@ -11,8 +11,8 @@ export default function About() {
               We know tech, we know finance. We are fintech experts.
             </p>
             <p class='mt-4 max-w-2xl text-lg text-gray-500 lg:mx-auto'>
-              We know how to handle taxation for all the countried we operate
-              in. We care for our customers and help them manage cashflows.
+            At Perago, we provide a comprehensive suite of software services including custom application development, system integration, and advanced data analytics to meet the unique needs of our clients.
+
             </p>
           </div>
 
@@ -24,13 +24,13 @@ export default function About() {
                     <img src='https://www.svgrepo.com/show/503163/api-settings.svg' />
                   </div>
                   <p class='font-heading ml-16 text-lg leading-6 font-bold text-gray-700'>
-                    Powerful API
+                  Diversified Experience in Software Engineering
+
                   </p>
                 </dt>
                 <dd class='mt-2 ml-16 text-base text-gray-500'>
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Maiores impedit perferendis suscipit eaque, iste dolor
-                  cupiditate blanditiis ratione.
+                We have hands on consulting and implementation experiences in software development, 
+                system analysis, and software quality assurance at national and regional levels.
                 </dd>
               </div>
               <div class='relative'>
@@ -39,14 +39,14 @@ export default function About() {
                     <img src='https://www.svgrepo.com/show/503138/webpack.svg' />
                   </div>
                   <p class='font-heading ml-16 text-lg leading-6 font-bold text-gray-700'>
-                    Easy to integrate SDK
+                  Qualified Staff
                   </p>
                 </dt>
                 <dd class='mt-2 ml-16 text-base text-gray-500'>
                   {' '}
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Maiores impedit perferendis suscipit eaque, iste dolor
-                  cupiditate blanditiis ratione.
+                  Perago houses internationally certified professionals among the few ones in the industry. 
+                  This highly dedicated and committed staff are the cornerstones for providing quality products and services to our customers. We also engage subject matter experts to make sure we understand every bit of our customers’ 
+                  business processes.
                 </dd>
               </div>
               <div class='relative'>
@@ -55,14 +55,13 @@ export default function About() {
                     <img src='https://www.svgrepo.com/show/511771/dashboard-671.svg' />
                   </div>
                   <p class='font-heading ml-16 text-lg leading-6 font-bold text-gray-700'>
-                    Low Transaction Cost
+                  Customer Focus
                   </p>
                 </dt>
                 <dd class='mt-2 ml-16 text-base text-gray-500'>
                   {' '}
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Maiores impedit perferendis suscipit eaque, iste dolor
-                  cupiditate blanditiis ratione.
+                  We foster close relationships, rooted in trust and respect, with our customers, 
+                  so we can understand face together the everyday challenge of tying the evolving information technology with their business goals.
                 </dd>
               </div>
               <div class='relative'>
@@ -71,14 +70,15 @@ export default function About() {
                     <img src='https://www.svgrepo.com/show/76267/free-commercial-label.svg' />
                   </div>
                   <p class='font-heading ml-16 text-lg leading-6 font-bold text-gray-700'>
-                    Powerful Dashboard
+                  Awareness of all stakeholders
+
                   </p>
                 </dt>
                 <dd class='mt-2 ml-16 text-base text-gray-500'>
                   {' '}
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Maiores impedit perferendis suscipit eaque, iste dolor
-                  cupiditate blanditiis ratione.
+                  We engage all stakeholders in every phase of our project life cycle in order to get the confidence of users and to ensure the solutions are put into service.
+
+
                 </dd>
               </div>
             </dl>

@@ -31,12 +31,12 @@ export default function Footer() {
             </a>
             <div class='mt-6 lg:max-w-sm'>
               <p class='text-sm text-gray-800'>
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                accusantium doloremque laudantium, totam rem aperiam.
+              The Online Payment Platform helps customers pay for government service fees, utilities, and retail purchases seamlessly by integrating it with our e-services and e-commerce platforms. 
+              The platform helps to generate payment orders to track payments and e-receipts as proof of payments.
               </p>
               <p class='mt-4 text-sm text-gray-800'>
-                Eaque ipsa quae ab illo inventore veritatis et quasi architecto
-                beatae vitae dicta sunt explicabo.
+              Collaborative platform in conducting key procurement activities in acquisition of goods, works, 
+              services, and services with enhanced efficiency in procurement management
               </p>
             </div>
           </div>
@@ -52,7 +52,7 @@ export default function Footer() {
                 title='Our phone'
                 class='transition-colors duration-300 text-deep-purple-accent-400 hover:text-deep-purple-800'
               >
-                850-123-5021
+                +251(114)701998
               </a>
             </div>
             <div class='flex'>
@@ -63,7 +63,7 @@ export default function Footer() {
                 title='Our email'
                 class='transition-colors duration-300 text-deep-purple-accent-400 hover:text-deep-purple-800'
               >
-                info@lorem.mail
+                Info@peragosystems.com
               </a>
             </div>
             <div class='flex'>
@@ -76,7 +76,7 @@ export default function Footer() {
                 title='Our address'
                 class='transition-colors duration-300 text-deep-purple-accent-400 hover:text-deep-purple-800'
               >
-                312 Lovely Street, NY
+                Addis Ababa, Ethiopia
               </a>
             </div>
           </div>
@@ -112,14 +112,13 @@ export default function Footer() {
               </a>
             </div>
             <p class='mt-4 text-sm text-gray-500'>
-              Bacon ipsum dolor amet short ribs pig sausage prosciutto chicken
-              spare ribs salami.
+            Perago Information Systems PLC i
             </p>
           </div>
         </div>
         <div class='flex flex-col-reverse justify-between pt-5 pb-10 border-t lg:flex-row'>
           <p class='text-sm text-gray-600'>
-            © Copyright 2020 Lorem Inc. All rights reserved.
+            © Copyright 2024 Perago Information Systems. All rights reserved.
           </p>
           <ul class='flex flex-col mb-3 space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row'>
             <li>
@@ -127,7 +126,7 @@ export default function Footer() {
                 href='/'
                 class='text-sm text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400'
               >
-                F.A.Q
+                Po.Box: 139 
               </a>
             </li>
             <li>

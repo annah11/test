@@ -6,7 +6,7 @@ export default function Hero() {
       <div className='absolute bottom-0 right-0 overflow-hidden lg:inset-y-0'>
         <img
           className='w-auto h-full'
-          src='https://d33wubrfki0l68.cloudfront.net/1e0fc04f38f5896d10ff66824a62e466839567f8/699b5/images/hero/3/background-pattern.png'
+          src='https://favicon.ico.clhttps://favicon.icowww.peragosystems.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fperago-white.3170b248.png&w=3840&q=75oudfront.net/1e0fc04f38f5896d10ff66824a62e466839567f8/699b5/images/hero/3/background-pattern.png'
           alt=''
         />
       </div>
@@ -93,10 +93,12 @@ export default function Hero() {
                   Perago Information System.
                 </h1>
                 <p className='mt-2 text-lg text-gray-600 sm:mt-8 font-inter'>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Vehicula massa in enim luctus. Rutrum arcu.
+                Perago Systems is a technology company that focuses on developing and implementing electronic government and 
+                B2B commerce solutions towards the provision of various online transactional services. Perago provides strong 
+                technical support and knowledge transfer to sustain the competitive advantages gained by customers from their ICT investments.
                 </p>
-
+              </div>
+              <div className='mt-8 sm:flex sm:justify-center lg:justify-start'>
                 {/* <form action='#' method='POST' className='mt-8 sm:mt-10'>
                   <div className='relative p-2 sm:border sm:border-gray-400 group sm:rounded-xl sm:focus-within:ring-1 sm:focus-within:ring-gray-900 sm:focus-within:border-gray-900'>
                     <input
@@ -122,7 +124,7 @@ export default function Hero() {
               <div className='flex items-center justify-center mt-10 space-x-6 lg:justify-start sm:space-x-8'>
                 <div className='flex items-center'>
                   <p className='text-3xl font-medium text-gray-900 sm:text-4xl font-pj'>
-                    23
+                    23+
                   </p>
                   <p className='ml-3 text-sm text-gray-900 font-pj'>
                     Total
