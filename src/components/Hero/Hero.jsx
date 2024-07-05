@@ -3,7 +3,7 @@ import Link from 'next/link';
 export default function Hero() {
   return (
     <div className='relative bg-gray-50'>
-      <div className='absolute bottom-0 right-0 overflow-hidden lg:inset-y-0'>
+      {/* <div className='absolute bottom-0 right-0 overflow-hidden lg:inset-y-0'>
         <img
           className='w-auto h-full'
           src='https://favicon.ico.clhttps://favicon.icowww.peragosystems.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fperago-white.3170b248.png&w=3840&q=75oudfront.net/1e0fc04f38f5896d10ff66824a62e466839567f8/699b5/images/hero/3/background-pattern.png'
@@ -82,7 +82,7 @@ export default function Hero() {
             </div>
           </div>
         </div>
-      </header>
+      </header> */}
 
       <section className='relative py-8 sm:py-12 lg:py-16 lg:pb-36'>
         <div className='px-4 mx-auto max-w-7xl sm:px-6 lg:px-8'>
